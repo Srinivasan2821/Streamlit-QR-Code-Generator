@@ -11,22 +11,18 @@ Intuitive Streamlit interface for easy use.
 
 **Getting Started:**
 Clone the repository from GitHub.
-Install required dependencies using pip install -r requirements.txt (file may vary).
-Run the app with streamlit run app.py (file may vary).
+Install required dependencies using pip install -r requirements.txt.
+Run the app with streamlit run App.py.
 
 **Using the App:**
 Enter your text in the app.
-Customize the QR code appearance (optional - depends on library).
+Customize the QR code appearance .
 Download the generated QR code.
 
 **Libraries:**
-Streamlit (https://docs.streamlit.io/)
-QR code generation library (e.g., qrcode)
+Streamlit
+QR code generation library 
 
-**Contributing:**
-We welcome improvements and bug fixes!
 
-**License:**
-Specify the license used (e.g., MIT, Apache).
 
 
